@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0209-minimum-size-subarray-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0542-01-matrix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
@@ -27,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0542-01-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
