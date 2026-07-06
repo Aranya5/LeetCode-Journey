@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0978-longest-turbulent-subarray) |
+| [1288-remove-covered-intervals](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
