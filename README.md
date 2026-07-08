@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Tree
 |  |
 | ------- |
