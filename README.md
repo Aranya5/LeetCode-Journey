@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
