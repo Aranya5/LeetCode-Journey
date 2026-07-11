@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0118-pascals-triangle) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
