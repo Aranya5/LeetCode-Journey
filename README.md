@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0002-add-two-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
