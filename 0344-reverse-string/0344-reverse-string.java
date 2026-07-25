@@ -1,15 +1,21 @@
 class Solution {
     public void reverseString(char[] s) {
-        int low =0, high= s.length-1;
-        while(low<=high){
-            char temp= s[low];
-            s[low]=s[high];
-            s[high]=temp;
+        reverseHelper(s, 0);
+    }
 
-            low++;
-            high--;
+    private void reverseHelper(char[] s, int i) {
+        if (i >= s.length / 2) {
+            return;
         }
 
-        
+        swap(s, i, s.length - i - 1);
+
+        reverseHelper(s, i + 1);
+    }
+
+    private void swap(char[] s, int left, int right) {
+        char temp = s[left];
+        s[left] = s[right];
+        s[right] = temp;
     }
 }
