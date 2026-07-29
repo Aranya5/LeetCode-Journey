@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -289,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
