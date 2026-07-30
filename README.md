@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
