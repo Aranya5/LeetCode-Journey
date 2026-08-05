@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0542-01-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
