@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Segment Tree
 |  |
 | ------- |
