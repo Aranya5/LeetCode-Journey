@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
@@ -338,4 +342,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
