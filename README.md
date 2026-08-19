@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1386-cinema-seat-allocation](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0055-jump-game) |
+| [1386-cinema-seat-allocation](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Segment Tree
 |  |
