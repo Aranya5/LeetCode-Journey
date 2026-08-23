@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1927-sum-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
