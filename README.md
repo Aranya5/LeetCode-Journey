@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
+| [1872-stone-game-viii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0978-longest-turbulent-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1872-stone-game-viii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Design
 |  |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1872-stone-game-viii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
@@ -369,10 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -382,5 +388,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
