@@ -24,7 +24,7 @@ class Solution {
         }
 
         ListNode prev = null;
-        for (int i = 0; i <= right - left; i++) {
+        for (int i = 0; i < right - left+1; i++) {
             ListNode nextNode = curr.next;
             curr.next = prev;
             prev = curr;
