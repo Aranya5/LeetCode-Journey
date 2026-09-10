@@ -33,8 +33,8 @@ class Solution {
         int[] left = solve(root.left);
         int[] right = solve(root.right);
 
-        sum = left[0] + right[0] + root.val;
-        count = left[1] + right[1] + 1;
+        sum += left[0] + right[0] + root.val;
+        count += left[1] + right[1] + 1;
         if (sum / count == root.val) {
             result++;
         }
