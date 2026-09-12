@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0112-path-sum) |
 | [0542-01-matrix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3620-network-recovery-pathways) |
