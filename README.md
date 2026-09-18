@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
