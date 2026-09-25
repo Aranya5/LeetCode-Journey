@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [1096-brace-expansion-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1096-brace-expansion-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1927-sum-game) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
+| [1096-brace-expansion-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -386,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
 | ------- |
