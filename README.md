@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0978-longest-turbulent-subarray) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1927-sum-game) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
