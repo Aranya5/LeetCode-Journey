@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0835-image-overlap](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0835-image-overlap) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0658-find-k-closest-elements](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0658-find-k-closest-elements) |
 | [1096-brace-expansion-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aranya5/https-github.com-Aranya5-LeetCode-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
